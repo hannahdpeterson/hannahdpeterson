@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me 👩‍💻
 
 <!--
-**hannahdpeterson/hannahdpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Hannah. I am finishing up my degree in Data Science and Statistics from American University in Washington, D.C.
+I am pursuing a dual-degree program, actively taking courses that count toward an M.S. in Data Science, with anticipated completion in May 2027.
 
-Here are some ideas to get you started:
+#### Tools 💻
+I am currently familiarized with:
+* R, R studio
+* SQL, Python
+* Tableau
+* Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Projects 📊
+I showcase my most recent projects [here](https://github.com/hannahdpeterson/Data_Portfolio).
 -->
