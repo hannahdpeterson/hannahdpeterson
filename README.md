@@ -5,8 +5,9 @@ I am pursuing a dual-degree program, actively taking courses that count toward a
 
 ### Tools 💻
 I am currently familiarized with:
-* R, R studio
-* SQL, Python
+* R
+* SQL
+* Python
 * Tableau
 * Power BI
 
