@@ -1,7 +1,7 @@
 ## About Me 👩‍💻
 
 Hello, I'm Hannah. I am finishing up my degree in Data Science and Statistics from American University in Washington, D.C.
-I am pursuing a dual-degree program, actively taking courses that count toward an M.S. in Data Science, with anticipated completion in May 2027.
+I am pursuing a dual-degree program, actively taking courses that count toward an M.S. in Data Science, with anticipated completion of my Masters in Data Science in May 2027. My Bachelors in Data Science will be completed May 2026. I am actively searching for an internship or job opportunity in my field!
 
 ### Tools 💻
 I am currently familiarized with:
